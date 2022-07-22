@@ -1,2 +1,2 @@
 # Text-Mining-
-Analysis of reviews of an amazon product
+Analisi delle recensioni Amazon di Firestick con relatva analisi del sentiment sviluppata con R studio 
